@@ -1,4 +1,4 @@
-# Spring4 init settings by XML Config
+# Spring4 init settings by Java Config
 Spring Framework4 기반 프로젝트의 가장 기본적인 세팅시, 자바설정을 이용하며 다음과 버전을 사용한다.
 
 - 컨텍스트루트 : '/'

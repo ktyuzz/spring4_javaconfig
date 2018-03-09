@@ -1,1 +1,2 @@
-# Spring4기반 프로젝트의 가장 기본적인 시작세팅
+# spring4_javaconfig
+spring4 javaconfig 기반의 default 버전
